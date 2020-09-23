@@ -1,0 +1,1 @@
+import { isProduction } from '@/config'
